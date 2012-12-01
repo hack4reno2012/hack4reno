@@ -1,21 +1,25 @@
 hack4reno
 =========
 
+EVENT DETAILS
+-------------
+For some awesome, somewhat laggy video details on the event, check out [this video](https://vimeo.com/54578678).
+
 AGENDA
 ------
 
-Saturday - December 1st
+### Saturday - December 1st
 
-10am - Registration starts & team matchmaking
-Noon - 24 hour hackathon begins
-5:30pm - Dinner
+ * 10am - Registration starts & team matchmaking
+ * Noon - 24 hour hackathon begins
+ * 5:30pm - Dinner
 
-Sunday - December 2nd
+### Sunday - December 2nd
 
-9am - Breakfast (sponsored by NIREC)
-Noon - 24 hours hackathon ends
-Noon - Lunch and Demo prep (sponsored by Trinity AI)
-1pm - Demo presentations
+ * 9am - Breakfast (sponsored by NIREC)
+ * Noon - 24 hours hackathon ends
+ * Noon - Lunch and Demo prep (sponsored by Trinity AI)
+ * 1pm - Demo presentations
 
 Snacks, water, caffeine (red bull, sodas, coffee) will be available thanks to sponsorship from Cloudsnap and Noble Studios but plan ahead and bring some things.
 
