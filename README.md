@@ -39,6 +39,19 @@ If you have signed up to spectate, you're welcome to come by the event at any ti
 
 If you want to see what comes from Hack4Reno this year, the best way to do so is to attend the Demo Presentations at 1pm.
 
+RENO CODE FOR AMERICA BRIGADE & LAUNCH-A-THON
+--------------
+
+Can't code? Or still learning? That is OK!
+
+You do not have to build a new application from scratch, we will be deploying a number of applications from the Code for America directory of open source, community maintained applications... for Reno! These applications will need developers, designers, content creators, journalists, city planners and much more to flesh out in order to make them usable by the community.
+
+http://brigade.codeforamerica.org/applications  
+
+The Reno Code for America Brigade be formed at Hack4Reno and exist as a group to maintain these projects and to organize more events to hack our city.
+
+http://www.meetup.com/cfabrigade/Reno-NV/826142/ 
+
 DEMO PRESENTATIONS
 ------------------
 At noon on Sunday, we'll call the hackathon to a close. At this time, lunch will be available and you will have an hour to prepare a demo of sorts. Do not wait until this time to think of a demo! It always helps in hackathons to think about what you'd like to demo and work backwards from that to decide what you should build.
@@ -65,5 +78,6 @@ This event couldn't be possible without our awesome sponsors! Each organization 
 TICKETS
 -------
 You do NOT have to print your tickets for the event. Save those trees! 
+
 
 Happy hacking everyone!  
